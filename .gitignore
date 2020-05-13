@@ -1,0 +1,9 @@
+uwnd.mon.mean.nc
+vwnd.mon.mean.nc
+Gaussian_R40.nc
+GetVorticity.nc
+frc.nc
+
+*.dat
+*.clim
+*.frc
